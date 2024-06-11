@@ -8,8 +8,8 @@ global.autoReadAll = process.env.AUTO_READ_ALL || false;
 global.antitags = process.env.ANTITAGS || true;
 
 // Auto functioner
-global.autoTyping = process.env.AUTO_TYPING || false;
-global.autoRecord = process.env.AUTO_RECORD || false;
+global.autoTyping = process.env.AUTO_TYPING || true;
+global.autoRecord = process.env.AUTO_RECORD || true;
 global.groupevent = process.env.GROUPEVENT || true;
 global.statusseen = process.env.STATUSSEEN || true;
 global.autoreadgc = process.env.AUTOREADGC || true;
